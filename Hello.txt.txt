@@ -1,0 +1,5 @@
+Hello this is the first git clone
+
+git add . 
+git commit -m "These are commands for adding"
+git push
